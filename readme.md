@@ -5,7 +5,7 @@
 ```
 composer install
 npm install
-gulp 
+webpack or gulp 
 ```
 You would need to setup a dev enviroment for this as well. 
 

@@ -11,11 +11,10 @@
  * the body of the page. From here, you may begin adding components to
  * the application, or feel free to tweak this setup for your needs.
  */
-import * as App from './components/app.vue'
 import Vue from 'vue'
 import VueResource from 'vue-resource'
 import VueRouter from 'vue-router'
-
+import * as App from './components/app.vue'
 
 
 Vue.use(VueRouter);
